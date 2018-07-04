@@ -2,5 +2,6 @@
 def prime?(integer)
   if integer < 0
     return false
-  end
+  else 
+    
 end
